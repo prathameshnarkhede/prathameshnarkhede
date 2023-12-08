@@ -1,4 +1,5 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+![hydra-we-bhack](https://github.com/prathameshnarkhede/prathameshnarkhede/assets/55591622/3b000bd8-c4a5-4549-a208-aa10a70a359b)
+
 
 - 👋 Hi, I’m Prathamesh
 - 👀 I’m interested in SaaS Development.
@@ -7,12 +8,12 @@
 - 📫 You can reach out to me at my [Email ID](mailto:prathameshnarkhede@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/prathameshnarkhede)
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://github.com/prathameshnarkhede/prathameshnarkhede/assets/55591622/b817c9ec-3a0e-4ee5-83ea-6aece5f6fade" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
 
-- **Languages**:
+- **Programming Languages**:
     
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
