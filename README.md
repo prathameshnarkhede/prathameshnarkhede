@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m Prathamesh
-- 👀 I’m interested in SaaS Development.
-- 🌱 I’m currently learning AI/ML and LLM.
-- 💞️ I’m looking to collaborate on Full Stack Application Development.
+- 👀 I’m interested in SaaS Development
+- 🌱 I’m currently learning AI/ML and LLM
+- 💞️ I’m looking to collaborate on Full Stack Application Development
 - 📫 You can reach out to me at my [Email ID](mailto:prathameshnarkhede@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/prathameshnarkhede)
 
 
